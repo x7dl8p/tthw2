@@ -25,7 +25,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
-      <div className="bg-blue-500 text-white p-4 rounded-lg">
+      <div className="bg-blue-500 text-white p-2 rounded-lg">
         This should be styled with Tailwind CSS
       </div>
       <p className="read-the-docs">
