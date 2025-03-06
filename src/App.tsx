@@ -21,9 +21,6 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
       </div>
       <div className="bg-blue-500 text-white p-2 rounded-lg">
         This should be styled with Tailwind CSS
